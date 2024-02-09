@@ -3,7 +3,7 @@ title: "My First Blog Post"
 date: 2024-02-08
 ---
 ---
-# H1: "Diving into IT"
+# "Diving into IT"
 ---
 After meeting with Mdava's family and seeing the freedom given to mdava's cousin and her fiance with a occupation in Cyber Security, 
 I knew I wanted that for myself. Not really knowing where to start, I then started to study for CompTIA Sec+ exam late Decemebr. 
